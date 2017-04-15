@@ -1,0 +1,14 @@
+{
+    "name": "atex/append",
+    "description": "test demo",
+    "type": "php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "homestay",
+            "email": "homestay@homestay.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
